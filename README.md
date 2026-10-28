@@ -2,7 +2,7 @@
 
 ---
 
-# 🧩 1. Install Homebrew (Mac Only)
+# 🧩 1. Install Homebrew (Macbook Only)
 
 > Skip this step if you're on Windows.
 
@@ -52,10 +52,12 @@ git --version
 
 Set your name and email so Git tracks your commits properly:
 
+
 ```bash
 git config --global user.name "Your Name"
 git config --global user.email "your_email@example.com"
 ```
+
 
 Confirm the settings:
 
